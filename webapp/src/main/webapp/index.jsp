@@ -5,27 +5,27 @@
     <hr>
      
     <label for="Name"><b>Enter Firstname</b></label>
-    <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
+    <input type="text" placeholder="First Name" name="Name" id="Name" required>
     <br>
     <br>
     
     <label for="Name"><b>Enter Lastname</b></label>
-    <input type="text" placeholder="Enter Last Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Last Name" name="Name" id="Name" required>
     <br>
     <br>
     
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Mobile number" name="mobile" id="mobile" required>
     <br>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Password" name="psw" id="psw" required>
     <br>
     <br>
 
